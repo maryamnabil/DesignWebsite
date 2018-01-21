@@ -1,0 +1,44 @@
+.container {
+
+		margin:0px;
+		padding: 0px;
+		width: 100%;  
+	}
+
+
+#FormulaCont {
+	
+		background-color: #781e13;
+		margin-top:50px;
+		margin-bottom: 50px;
+	}
+
+#FormulaLogo {
+		margin-top:200px;
+
+	}
+
+#Three {
+
+		margin-top:100px;
+	}
+
+
+#ShellCont {
+
+		background-color: #e9b007;
+		margin-top:50px;
+		margin-bottom: 50px;
+	}
+
+#ShellLogo {
+
+		margin-top:200px;
+	}
+
+#Two{
+
+		margin-top: 100px;
+	}
+
+
